@@ -8,7 +8,7 @@ class Fetch extends React.Component {
     super(props)
     this.state ={
      data: '',
-   //  filtertext: [],
+    filtertext: [],
      filtertext: this.props.data
     }
    
