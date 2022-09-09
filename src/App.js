@@ -7,6 +7,7 @@ import Fetch from './Fetch';
     
    <div>
       <Fetch/>  
+   <h1>hello<h1/>
     </div>
   )
 }
